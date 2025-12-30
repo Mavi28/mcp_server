@@ -1,0 +1,2 @@
+OPENWEATHERMAP_API_KEY=your-openweathermap-api-key
+OPM_WEATHER_URL=https://api.openweathermap.org/data/2.5/weather
